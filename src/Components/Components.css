@@ -1,0 +1,40 @@
+/* universal css */
+
+.flex-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* header css starts here */
+
+.header {
+  background-color: #c60607;
+  padding: 0.5rem 1rem;
+}
+
+.header-div {
+  margin: 1rem 2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header-logo {
+    width: 2.5rem;
+    height: 2.5rem;
+}
+
+.header-brand {
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: white;
+}
+
+.menu a {
+  margin: 0 1rem;
+  text-decoration: none;
+  color: white;
+  font-size: 1.2rem;
+}
+
